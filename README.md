@@ -33,7 +33,7 @@ sudo pip3 install Scrapy --upgrade --ignore-installed six
 
 
 ### 启动
-第一种
+
 ```
 python3 main.py
 ```
